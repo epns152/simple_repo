@@ -2,6 +2,8 @@ My second file
 1
 2 git_1
 3 git_1
+2 git_2
+3 git_2
 4
 5
 6
