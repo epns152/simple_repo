@@ -1,7 +1,7 @@
 My new File
 1
-2 git_1
-3 git_1
+2 git_1 dir2
+3 git_1 dir2
 4
 5 git_1
 6 git_1
