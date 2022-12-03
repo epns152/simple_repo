@@ -1,2 +1,2 @@
-# simple_repo
-for git practice
+
+Hello world
